@@ -1,0 +1,19 @@
+{
+  "name": "rsa-scratch",
+  "version": "1.0.0",
+  "description": "RSA ALgorithm from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashankagarwalgit/rsa-from-scratch.git"
+  },
+  "author": "Shashank Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashankagarwalgit/rsa-from-scratch/issues"
+  },
+  "homepage": "https://github.com/shashankagarwalgit/rsa-from-scratch#readme"
+}
